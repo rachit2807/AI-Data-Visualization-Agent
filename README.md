@@ -2,11 +2,7 @@
 This Streamlit application creates an interactive Data Visualization Assistant that can understand Natural Language Queries and generate appropriate Visualizations using LLMs.
 The demand for AI-powered data visualization tools is surging as businesses seek faster, more intuitive ways to understand their data. We can tap into this growing market by building our own AI-powered visualization tools that integrate seamlessly with existing data workflows.
 
-![AI Data Visualization Agent](https://github.com/rachit2807/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA.jpg) 
-
 We'll build an AI Data Visualization Agent using Together AI's powerful language models and E2B's secure code execution environment. This agent will understand natural language queries about your data and automatically generate appropriate visualizations, making data exploration intuitive and efficient.
-
-![AI Data Visualization Agent](https://github.com/rachit2807/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA1.jpg)
 
 This tutorial can also be considered as a demo for the E2B Code Interpreter and Together AI, for anyone who's getting started with these libraries!
 
@@ -22,8 +18,6 @@ Features:
      → DeepSeek V3                                  
      → Qwen 2.5 7B                             
      → Meta-Llama 3.3 70B                                        
-     
-![AI Data Visualization Agent](https://github.com/rachit2807/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA2.jpg)
 
 ## Features
 A Streamlit application that acts as your personal data visualization expert, powered by LLMs. Simply upload your dataset and ask questions in natural language - the AI agent will analyze your data, generate appropriate visualizations, and provide insights through a combination of charts, statistics, and explanations.
@@ -45,8 +39,6 @@ A Streamlit application that acts as your personal data visualization expert, po
 - DeepSeek V3 for detailed insights
 - Qwen 2.5 7B for quick analysis
 - Meta-Llama 3.3 70B for advanced queries
-
-![AI Data Visualization Agent](https://github.com/rachit2807/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA3.jpg)
 
 ## How to Run
 
