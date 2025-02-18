@@ -59,6 +59,9 @@ Follow the steps below to set up and run the application:
 3. **Run the Streamlit app**
     ```bash
     streamlit run ai_data_visualisation_agent.py
+
+## Live Demo
+- [AI Data Visualization Agent Live App](https://ai-dva.streamlit.app/)
     ```
 
 Happy coding! 🚀✨
