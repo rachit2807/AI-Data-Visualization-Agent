@@ -62,7 +62,7 @@ Follow the steps below to set up and run the application:
 
 ## Live Demo
 - [AI Data Visualization Agent Live App](https://ai-dva.streamlit.app/)
-    ```
+
 
 Happy coding! 🚀✨
 
